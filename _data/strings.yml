@@ -4,13 +4,16 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made with ❤️ in Europe 🇪🇺 by <a href="https://www.sandoche.com" target="_blank">Sandoche</a>
+  copyright: Made in Bulgaria by <a href="https://zdravkov.dev" target="_blank">Ivan Zdravkov</a>
   links:
     - title: Github
-      url: https://github.com/sandoche/Mobile-app-landingpage-template
+      url: https://github.com/ivan-zdravkov
       target: _blank
-    - title: Donate
-      url: https://paypal.me/kanbanote
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/ivan-zdravkov/
+      target: _blank
+    - title: Ivan Zdravkov
+      url: https://zdravkov.dev
       target: _blank
     - title: Privacy
       url: /privacy

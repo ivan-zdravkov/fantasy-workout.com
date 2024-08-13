@@ -3,31 +3,26 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Mobile App Landing Page Template
-email: contact@sandoche.com
+title: Fantasy Workout
+email: info@fantasy-workout.com
 description: Free to use static landing page template to showcase your mobile app
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://mobileapplandingpage.learn.uno" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://fantasy-workout.com"
 theme_color: '#efeeff'
-twitter_username: sandochee
-github_username:  sandoche
-author: Sandoche Adittane
+github_username:  ivan-zdravkov
+author: Ivan Zdravkov
 logo: assets/images/large-logo.png
-twitter:
-  username: sandochee
 social:
-  name: Sandoche Adittane
+  name: Ivan Zdravkov
   links:
-    - https://twitter.com/sandochee
-    - https://www.facebook.com/sandoche
-    - https://www.linkedin.com/in/sandoche
-    - https://plus.google.com/+SandocheADITTANE
-    - https://github.com/sandoche
+    - https://zdravkov.dev
+    - https://github.com/ivan-zdravkov
+    - https://www.linkedin.com/in/ivan-zdravkov
 
 languages: ["en"]
 ampdir: amp
 
-github: https://github.com/sandoche/Mobile-app-landingpage-template
+github: https://github.com/ivan-zdravkov
 
 ### Google webmaster tools, Google Analytics, Doorbell and Cookie consent uncomment and put the API key
 #webmaster_verifications:
