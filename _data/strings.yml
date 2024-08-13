@@ -4,7 +4,7 @@ app:
   featured: Featured in
 
 footer:
-  copyright: Made in Bulgaria by <a href="https://zdravkov.dev" target="_blank">Ivan Zdravkov</a>
+  copyright: Made by <a href="https://zdravkov.dev" target="_blank">Ivan Zdravkov</a>
   links:
     - title: Github
       url: https://github.com/ivan-zdravkov
@@ -12,8 +12,3 @@ footer:
     - title: LinkedIn
       url: https://www.linkedin.com/in/ivan-zdravkov/
       target: _blank
-    - title: Ivan Zdravkov
-      url: https://zdravkov.dev
-      target: _blank
-    - title: Privacy
-      url: /privacy
