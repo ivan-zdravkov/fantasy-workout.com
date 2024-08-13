@@ -10,9 +10,9 @@
   </a>
 </p>
 
-📱 Free to use static generated landing page template for your mobile app
+Free to use static generated landing page template for your mobile app
 
-## 💡 Features
+## Features
 Mobile App Landing Page Template comes with pre-installed features and options:
 - Display app icon
 - Show unlimited app screenshots
@@ -28,15 +28,10 @@ Mobile App Landing Page Template comes with pre-installed features and options:
 - Doorbell widget
 - Github forking banner
 
-## ✨ Demo
-Check out websites using the Mobile App Template:
-- https://mobileapplandingpage.learn.uno (demo website)
-- https://gitnews.learn.uno
-- https://textblast.learn.uno
-- https://infinideas.learn.uno
-- https://www.therandominion.com/
+## Demo
+- https://mobileapplandingpage.learn.uno
 
-## 📖 How to use
+## How to use
 
 ### The normal way
 
@@ -55,7 +50,7 @@ Check out websites using the Mobile App Template:
 3. Click on the `Publish` button then `Save Webpage as .zip`
 4. Unzip and upload the folder to your server (you can drag'n'drop it in Netlify to host it there for free)
 
-## ⚙️ How to run
+## How to run
 
 ### Pre-requisites
 - NodeJS
@@ -77,24 +72,5 @@ npm start
 npm run build
 ```
 
-### Deploy to netlify (for free)
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/sandoche/Mobile-app-landingpage-template)
-
 ### More documentation
 This templates uses [Jekyll-webpack-boilerplate](https://github.com/sandoche/Jekyll-webpack-boilerplate), read more documentation there.
-
-## 🤝 Contributing
-Contributions, issues and feature requests are welcome!
-
-## ⭐️ Show your support
-Please ⭐️ this repository if this project helped you!
-
-<a href="https://www.patreon.com/sandoche">[![patreon.png](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://www.patreon.com/sandoche)</a>
-
-## 🍺 Buy me a beer 
-If you like this project, feel free to donate:
-* PayPal: https://www.paypal.me/kanbanote
-* Bitcoin: 19JiNZ1LkMaz57tewqJaTg2hQWH4RgW4Yp
-* Ethereum: 0xded81fa4624e05339924355fe3504ba9587d5419
-* Monero: 43jqzMquW2q989UKSrB2YbeffhmJhbYb2Yxu289bv7pLRh4xVgMKj5yTd52iL6x1dvCYs9ERg5biHYxMjGkpSTs6S2jMyJn
-* Motive: MOTIV-25T5-SD65-V7LJ-BBWRD (Get Motive Now: https://motive.network)
